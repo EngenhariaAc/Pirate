@@ -1,0 +1,9 @@
+{
+  "island": "Skull Island",
+  "coordinates": {
+    "lat": -12.345,
+    "lng": 45.678
+  },
+  "treasure": "Golden Chest",
+  "guarded_by": "Ancient Kraken"
+}
